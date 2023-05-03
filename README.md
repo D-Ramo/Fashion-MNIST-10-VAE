@@ -1,5 +1,5 @@
 # Fashion-MNIST-10-VAE
-This Jupyter Notebook implements a Variational Autoencoder (VAE) to generate images of clothing items from the Fashion-MNIST dataset. The notebook uses TensorFlow and Keras to build and train the VAE model.
+This Jupyter Notebook implements a Variational Autoencoder (VAE) to generate images of clothing items from the Fashion-MNIST dataset. The notebook uses pyTorch to build and train the VAE model.
 
 # Dataset
 The dataset used in this notebook is the Fashion-MNIST dataset, which is a collection of 70,000 grayscale images of 10 different clothing items, each of which is 28x28 pixels in size. The dataset is split into 60,000 training images and 10,000 testing images.
